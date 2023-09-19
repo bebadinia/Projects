@@ -1,0 +1,10 @@
+Write a C program that lets two people play tic-tac-toe.
+Use a global array:  char ttt [3][3];
+to represent the board state, and globals for the player (a char to hold ‘X’ or ‘O’ or whatever 2 characters you want), 
+i and j integers for indexes, and an integer to count the number of moves completed.  
+
+Assume there are two human players.
+Show the game board for each move with a key for the user to type one character or digit to say what spot to take in the board.
+At the end of a game, say who won or that it is a tie. Use whatever characters you want for the board lines between the cells. 
+Have at least the functions to print the board, get a valid move, and check for a win;
+do use printf, scanf, if-else, switch [to find indexes into ttt], while, for.  
