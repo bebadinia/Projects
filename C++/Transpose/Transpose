@@ -1,0 +1,10 @@
+Write a C program called transpose.c that reads in 
+15-20 family and friends (one first and last name on a line)
+from the file names.txt.
+
+Put the names into the array
+char names [20] [60];
+(make sure the names are less than 59 characters each).
+Write the names out to the screen and to a file called 
+trans.txt so the names can be read down instead of across 
+and add a couple of spaces between each character across.  
