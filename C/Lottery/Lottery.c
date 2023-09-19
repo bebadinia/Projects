@@ -1,22 +1,19 @@
 /*
  ==========================================================================
- = 				-C program written by Benyamin Ebadinia-                  =
- =                      -CS1311BN Programming 2-                          =
- =                          -March 2021-         	                      =
+ = 		-C program written by Benyamin Ebadinia-                  =
+ =                          -March 2021-         	                  =
  =                                                                        =
  =   *This program asks the user 7 numbers and generates 7 random         =
- =  	numbers and prints out both in order and checks to see if		  =
- =						there are any matches*							  =
- =																          =
- =              		     			                            	  =
- =				    ___       ___				  						  =
- =			       /   \ ~~~ /   \				  						  =
- =			 ,----(       . .     )				  						  =
- =			/      \___    	  ___/				  						  =
- =		   /|	       (\    |(				  							  =
- =		  ^ \   /___\   /\   |				  							  =
- =			 |  |   |  |__\  |				  							  =
- =			|__|   |__|    "" 				  							  =
+ =  	numbers and prints out both in order and checks to see if	  =
+ =			there are any matches*				  =
+ =		        	___       ___				  =
+ =			       /   \ ~~~ /   \				  =
+ =			 ,----(       . .     )				  =
+ =			/      \___    	  ___/				  =
+ =		      /|           (\    |(	 			  =
+ =		      ^ \   /___\   /\   |				  =
+ =			 |  |   |  |__\  |				  =
+ =			 |__|   |__|    "" 				  =
  ==========================================================================
 */
 #include <stdio.h>
