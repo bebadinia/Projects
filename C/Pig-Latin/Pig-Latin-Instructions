@@ -1,0 +1,12 @@
+Write a C program that translates English sentences into Pig Latin
+Accept sentences/lines one at a time until the user types "stop" for the input sentence.
+You can assume only letters appear that are either upper or lower case, there is no punctuation,
+and there are less than 80 characters in a sentence (write these assumptions in the user directions).  
+Put the definition of Pig Latin in the header comment.   
+
+In Pig Latin, each word is altered by the front consonants (any letters not a,e,i,o,u) being moved to the end and followed by "ay",
+and words that start with vowels or are all consonants have "way" added to the end.
+You can assume y is a consonant for this project.
+For example “Do you speak pig latin” would translate to “oDay ouyay eakspay igpay atinlay”.
+Use printf, gets, if-else, for, while, strcpy, strcmp, strlen, strtok and functions (at least a ‘translate a word’).
+No global variables. 
