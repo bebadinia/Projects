@@ -1,0 +1,6 @@
+Write a C program that asks the user for information about a particular collection of things that they own (for example: CDs, clothes, books, videos).
+For each item in the collection, ask for the name of the  item, one other characteristics of the item, and the money value of the item.  
+Store the information in a linked list of structures using the structure below (replace the xxx’s with the name of your structure; replace yyy and zzz too).
+After getting all the data in the linked list, print out the information in a table format.
+At the end, print the total number of items and the sum of the values of the items. 
+Be sure to give the user specific instructions.  Ask the user to type in items until they type “done” or “DONE” or “Done”.
