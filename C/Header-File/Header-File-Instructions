@@ -1,0 +1,28 @@
+Write a header file with one function for a C language tutor (have no includes in your .h file).
+When your function is called, print left justified except syntax and code (5 spaces indented). 
+Use the format below: 3*, name, 3*; a blank line; a definition and usage; blank line, …
+(replace the “<..content..>” with your text;  indents are with 5 spaces),  
+***  <command/construct name>  ***
+	
+<give a definition of the command or construct>
+<and say what it is used for and how it related to other items in the menu>  
+
+The syntax of <command name> is
+<the syntax>            (use <…> where user gives the name)
+
+Do you want to see examples (type y for yes)? 
+Use getchar(), and if the user types y or Y, show some examples (simple to complex), and if they type any thing else, the function is done.
+Indent by 5 spaces the syntax and code examples. For the examples, have
+***  <command name> Examples  ***
+
+Here are some examples of <command name>:
+<give example code – simple first>
+<explain what it does>
+<more complex example code>
+<explain what it does;  and so on>
+
+My main will print at the end of your stuff:     Press any key to go to the menu.  
+The function has no input values and no return values. My main will take care of reading other input to continue in the tutor.
+The name of the function MUST be the name used below.  The name of the header file MUST be the one in parentheses.
+
+You will need to write a main with includes stdio.h, conio.h, & your files to test your functions.
