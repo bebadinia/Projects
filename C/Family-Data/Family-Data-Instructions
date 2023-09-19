@@ -1,0 +1,23 @@
+Write a C program that assigns family information to structures:  
+	struct family      {
+				char name [50]; 		/* person's name */
+				char street [50]; 		/* street address */ 
+				char csz [50];		/* city, state, zip */
+				char relation [50];		/* relation to you */
+				char birthday [30];		/* mm-dd-yyyy */
+			         };
+	struct family people[7];
+or more if you have more immediate family members.
+Have 7 members at least (include yourself; make someone up if you have to).
+In one loop, read in the data from the file   familyin.txt   
+Create it in notepad to look like:
+	Joe B. Redfield
+	6220 Culebra
+	San Antonio, TX 78228
+	husband
+	10-03-1956		 
+	Neil M. Redfield		(… and so on, 5 lines for each family member)
+In ANOTHER LOOP, output for each person the following information to the screen and to the file   familyout.txt   formatted as below:
+	Joe B. Redfield				Relation:   self
+	6220 Culebra				Birthday:   October 3, 1956
+	San Antonio, TX 78228			Age:   49
