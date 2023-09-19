@@ -1,0 +1,11 @@
+Create a network that models something with at least 6 objects/nodes.
+Have two types of connections for each object with at least one connection from each object.
+Have at least one cycle/loop in the graph of the objects.
+Have a ‘name of the node’ field and one other field that is a characteristic of the item.
+Create the network and then print out each object one at a time showing the things one level deep connected to it.
+
+Have a function to create the network that calls a function to populate a node (send in the node address, name, characteristic value,
+and addresses (some will be NULL) to the connections), and a function that prints out the information at a node.    
+Allow an input to the .exe of “debug” at the run command to print out debugging statements – add extra prints in your code to include the address of each node at least,
+plus other statements that might interest a programmer.
+Make a global enumerated variable that is one of two values for the debug mode (or not the debug mode).  
