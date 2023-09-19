@@ -1,21 +1,20 @@
 /*
  ==========================================================================
- = 				-C program written by Benyamin Ebadinia-                  =
- =                      -CS1311BN Programming 2-                          =
+ = 		-C program written by Benyamin Ebadinia-                  =
  =                          -February 2021-                               =
  =                                                                        =
  =   *This program calculates the input of the user in the equation       =
- =  		 			f(x)=4x^2+8x+1 the standard way					  =
- =				f(z)=f(z-1)+8z+4 with f(0)=1 recursively*		          =
- =              		     			                            	  =
- =				    ___       ___				  						  =
- =			       /   \ ~~~ /   \				  						  =
- =			 ,----(       . .     )				  						  =
- =			/      \___    	  ___/				  						  =
- =		   /|	       (\    |(				  							  =
- =		  ^ \   /___\   /\   |				  							  =
- =			 |  |   |  |__\  |				  							  =
- =			|__|   |__|    "" 				  							  =
+ =  		 f(x)=4x^2+8x+1 the standard way			  =
+ =	f(z)=f(z-1)+8z+4 with f(0)=1 recursively*		          =
+ =              		     		                    	  =
+ =		        	___       ___				  =
+ =			       /   \ ~~~ /   \				  =
+ =			 ,----(       . .     )				  =
+ =			/      \___    	  ___/				  =
+ =		      /|           (\    |(	 			  =
+ =		      ^ \   /___\   /\   |				  =
+ =			 |  |   |  |__\  |				  =
+ =			 |__|   |__|    "" 				  =
  ==========================================================================
 */
 #include <stdio.h>
