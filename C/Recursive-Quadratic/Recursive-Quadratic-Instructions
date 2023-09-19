@@ -1,0 +1,9 @@
+Write a C program that finds the value of a specific quadratic function 
+f(x) = ax^2 + bx + c
+where you pick a, b and c (before you program) to be non-zero integers.
+
+In the program, find the value of your function in the regular way and
+using a recursive function call.  
+Ask the user for a positive integer value (for x; while loop!), and 
+print out the two results.
+Ask the user to run again or not. (in a while loop!)
