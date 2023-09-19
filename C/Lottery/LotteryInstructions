@@ -1,0 +1,7 @@
+Write a C program that asks the user for 7 numbers (positive integers) from 1 to 50.
+Generate 7 random numbers from 1 to 50 (hint: use srand(time(NULL)) and rand(), and (x%50)+1).
+Make a function called bubble that sorts a list of 7 numbers using the bubble sort algorithm (call bubble twice).
+Print out the users guess in the order given by the user and in numeric order. 
+Print out the random numbers you generated in the order that you generated them and in numeric order (remember, both sets of numbers must be unique numbers).
+Let the user know how many and which numbers matched your lottery numbers.  
+Be sure to give the user specific instructions.  
