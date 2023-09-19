@@ -1,21 +1,18 @@
 /*
  ==========================================================================
- = 				-C program written by Benyamin Ebadinia-                  =
- =                      -CS1311BN Programming 2-                          =
- =                          -March 2021-         	                      =
+ = 		-C program written by Benyamin Ebadinia-                  =
+ =                          -March 2021-         	                  =
  =                                                                        =
  =   *This program creates a network for a bed with 6 objects and         =
- =  		prints out each object and connection one at a time*		  =
- =																          =
- =              		     			                            	  =
- =				    ___       ___				  						  =
- =			       /   \ ~~~ /   \				  						  =
- =			 ,----(       . .     )				  						  =
- =			/      \___    	  ___/				  						  =
- =		   /|	       (\    |(				  							  =
- =		  ^ \   /___\   /\   |				  							  =
- =			 |  |   |  |__\  |				  							  =
- =			|__|   |__|    "" 				  							  =
+ =  		prints out each object and connection one at a time*	  =
+ =		        	___       ___				  =
+ =			       /   \ ~~~ /   \				  =
+ =			 ,----(       . .     )				  =
+ =			/      \___    	  ___/				  =
+ =		      /|           (\    |(	 			  =
+ =		      ^ \   /___\   /\   |				  =
+ =			 |  |   |  |__\  |				  =
+ =			 |__|   |__|    "" 				  =
  ==========================================================================
 */
 #include <stdio.h>
