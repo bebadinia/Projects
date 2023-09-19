@@ -1,0 +1,21 @@
+Jon Snow		Relation: Me 
+3550 Stark Rd		Birthday:June 22, 1283 
+ Winterfell, WS 78250	Age: 737 
+Eddard Stark		Relation: Father 
+3550 Stark Rd		Birthday:October 22, 1250 
+ Winterfell, WS 78250	Age: 770 
+Robert Stark		Relation: Brother 
+3550 Stark Rd		Birthday:May 16, 1281 
+ Winterfell, WS 78250	Age: 739 
+Arya Stark		Relation: Sister 
+3550 Stark Rd		Birthday:February 14, 1287 
+ Winterfell, WS 78250	Age: 733 
+Catelyn Stark		Relation: Mother 
+3550 Stark Rd		Birthday:December 14, 1255 
+ Winterfell, WS 78250	Age: 765 
+Dany Targaryen		Relation: Spouse 
+44 Targaryen Ln		Birthday:April 30, 1280 
+ Dragonstone, WS 78258	Age: 740 
+Ice King		Relation: Enemy 
+Beyond The Wall		Birthday:December 21, 120 
+ The North, UC 89005	Age: 1900 

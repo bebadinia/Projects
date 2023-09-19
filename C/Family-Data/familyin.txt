@@ -1,0 +1,35 @@
+Jon Snow
+3550 Stark Rd
+Winterfell, WS 78250
+Me
+06-22-1283
+Eddard Stark
+3550 Stark Rd
+Winterfell, WS 78250
+Father
+10-22-1250
+Robert Stark
+3550 Stark Rd
+Winterfell, WS 78250
+Brother
+05-16-1281
+Arya Stark
+3550 Stark Rd
+Winterfell, WS 78250
+Sister
+02-14-1287
+Catelyn Stark
+3550 Stark Rd
+Winterfell, WS 78250
+Mother
+12-14-1255
+Dany Targaryen
+44 Targaryen Ln
+Dragonstone, WS 78258
+Spouse
+04-30-1280
+Ice King
+Beyond The Wall
+The North, UC 89005
+Enemy
+12-21-120
