@@ -1,20 +1,19 @@
 /*
  ==========================================================================
- = 				-C program written by Benyamin Ebadinia-                  =
- =                      -CS1310V1 Programming 1-                          =
+ = 		-C program written by Benyamin Ebadinia-                  =
  =                          -October 2020-                                =
  =                                                                        =
  =      *This program will get 2 positive integer inputs and outputs      =
  =   	the factors and prime optimization of each and the LCM & GCF      =
- =       of both*		     			                            	  =
- =				    ___       ___				  						  =
- =			       /   \ ~~~ /   \				  						  =
- =			 ,----(       . .     )				  						  =
- =			/      \___    	  ___/				  						  =
- =		   /|	       (\    |(				  							  =
- =		  ^ \   /___\   /\   |				  							  =
- =			 |  |   |  |__\  |				  							  =
- =			|__|   |__|    "" 				  							  =
+ =       of both*		     			               	  =
+ =		        	___       ___				  =
+ =			       /   \ ~~~ /   \				  =
+ =			 ,----(       . .     )				  =
+ =			/      \___    	  ___/				  =
+ =		      /|           (\    |(	 			  =
+ =		      ^ \   /___\   /\   |				  =
+ =			 |  |   |  |__\  |				  =
+ =			 |__|   |__|    "" 				  =
  ==========================================================================
 */
 
