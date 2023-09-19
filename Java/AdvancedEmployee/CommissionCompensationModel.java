@@ -1,5 +1,5 @@
-//Problem 9.16
-public class CommissionCompensationModel
+//Problem 10.17
+public class CommissionCompensationModel implements CompensationModel
 {
     private double grossSales;
     private double commissionRate;
@@ -50,7 +50,7 @@ public class CommissionCompensationModel
     @Override
     public String toString()
     {
-        String str = "\nCommission Employee" + "\nGross Sales: " + getGrossSales() + "\nCommission Rate: " + getCommissionRate() + "\nEarnings: " + earnings();
+        String str = "\nCommission Employee" + "\nGross Sales: $" + getGrossSales() + "\nCommission Rate: " + getCommissionRate() + "\nEarnings: $" + earnings();
         return str;
     }
 }
