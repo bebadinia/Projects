@@ -1,21 +1,18 @@
-/* Showed output to Professor Redfield and she said it was good */
 /*
  ==========================================================================
- = 				-C program written by Benyamin Ebadinia-                  =
- =                      -CS1310V1 Programming 1-                          =
+ = 		-C program written by Benyamin Ebadinia-                  =
  =                          -October 2020-                                =
  =                                                                        =
- =      *This program will allow 2 player to play Tik Tack Toe by         =
+ =      *This program will allow 2 player to play Tic Tac Toe by          =
  =   	scanning in a number according to a guide using an array          =
- =              		     			                            	  =
- =				    ___       ___				  						  =
- =			       /   \ ~~~ /   \				  						  =
- =			 ,----(       . .     )				  						  =
- =			/      \___    	  ___/				  						  =
- =		   /|	       (\    |(				  							  =
- =		  ^ \   /___\   /\   |				  							  =
- =			 |  |   |  |__\  |				  							  =
- =			|__|   |__|    "" 				  							  =
+ =		        	___       ___				  =
+ =			       /   \ ~~~ /   \				  =
+ =			 ,----(       . .     )				  =
+ =			/      \___    	  ___/				  =
+ =		      /|           (\    |(	 			  =
+ =		      ^ \   /___\   /\   |				  =
+ =			 |  |   |  |__\  |				  =
+ =			 |__|   |__|    "" 				  =
  ==========================================================================
 */
 
