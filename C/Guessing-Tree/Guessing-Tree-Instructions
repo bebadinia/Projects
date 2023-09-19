@@ -1,0 +1,2 @@
+Write a C program that asks the user to think of an integer number from 1 to 20.
+Have the computer guess what the number is by using a binary tree to determine the next guess. 
