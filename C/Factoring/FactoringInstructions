@@ -1,0 +1,14 @@
+Write a C program that asks the user for two positive integers (do input error checking – make sure the values are positive!) and outputs: 
+ - the inputs
+ - all the factors of each (include 1 and itself)
+ - the prime factorization of each  (comment that you are using Dr Redfield’s)
+ - the least common multiple (LCM) of the two integers
+ - the greatest common factor (GCF/gcd) of the two integers
+
+Have at least the functions to  
+	get a positive integer (keep asking until a positive value),  
+	find the factors of a number, and 
+	find the prime factorization of a number (use my code).
+
+Do not use global variables.  Do use printf, scanf, if-else, while and for (must have at least one of each while and for that you wrote) statements, and functions as needed. 
+Also, do NOT use the fact that gcd(a,b) * lcm(a,b) = a * b.
