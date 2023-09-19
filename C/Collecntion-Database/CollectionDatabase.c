@@ -1,21 +1,19 @@
 /*
  ==========================================================================
- = 				-C program written by Benyamin Ebadinia-                  =
- =                      -CS1311BN Programming 2-                          =
+ = 		-C program written by Benyamin Ebadinia-                  =
  =                          -February 2021-                               =
  =                                                                        =
  =   *This program asks the user for information about watches and        =
- =  		    stores the structures into a linked list*				  =
- =																          =
- =              		     			                            	  =
- =				    ___       ___				  						  =
- =			       /   \ ~~~ /   \				  						  =
- =			 ,----(       . .     )				  						  =
- =			/      \___    	  ___/				  						  =
- =		   /|	       (\    |(				  							  =
- =		  ^ \   /___\   /\   |				  							  =
- =			 |  |   |  |__\  |				  							  =
- =			|__|   |__|    "" 				  							  =
+ =  		    stores the structures into a linked list*		  =
+ =              		     		                    	  =
+ =		        	___       ___				  =
+ =			       /   \ ~~~ /   \				  =
+ =			 ,----(       . .     )				  =
+ =			/      \___    	  ___/				  =
+ =		      /|           (\    |(	 			  =
+ =		      ^ \   /___\   /\   |				  =
+ =			 |  |   |  |__\  |				  =
+ =			 |__|   |__|    "" 				  =
  ==========================================================================
 */
 #include <stdio.h>
